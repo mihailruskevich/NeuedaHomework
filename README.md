@@ -4,6 +4,9 @@ This is a test automation solution that uses mind maps
 to generate and execute tests against a remote rest service.
 
 There is an example in project of supported mind map file format.
+This mind map describes test cases.
+
+![alt tag](https://github.com/mihailruskevich/NeuedaHomework/blob/master/mindmap.png)
 
 To instal application use: mvn package.
 
